@@ -1,0 +1,17 @@
+
+.button-real-time {
+    color: #fff;
+    margin: 3px;
+    border-radius: 5px;
+    background-color: var(--blue-color);
+    padding: 2px 3px;
+    outline: none;
+}
+.child {
+    display: flex;
+    justify-content: space-around;
+}
+h4 {
+    margin-top: 10px;
+    text-align: center;
+}
